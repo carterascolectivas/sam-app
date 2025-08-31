@@ -16,8 +16,7 @@ lint = true
 capabilities = "CAPABILITY_IAM"
 confirm_changeset = true
 resolve_s3 = true
-stack_name = "stevestacktest"
-s3_prefix = "stevestacktest"
+s3_prefix = "sam-app"
 region = "us-east-1"
 image_repositories = []
 
