@@ -22,7 +22,7 @@ profile = "AWSAdministratorAccess-086486166147"
 image_repositories = []
 
 [default.package.parameters]
-resolve_s3 = true
+# resolve_s3 = true
 
 [default.sync.parameters]
 watch = true
