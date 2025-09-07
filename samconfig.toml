@@ -18,7 +18,7 @@ confirm_changeset = true
 # resolve_s3 = true
 s3_prefix = "sam-app"
 region = "us-east-1"
-profile = "AWSAdministratorAccess-086486166147"
+# profile = "AWSAdministratorAccess-086486166147"
 image_repositories = []
 
 [default.package.parameters]
